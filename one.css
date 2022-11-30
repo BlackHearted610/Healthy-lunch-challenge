@@ -7,9 +7,3 @@ html  {
     border-radius:1rem;
 }
 
-.grid-container {
-    display:grid;
-    column-gap:30px;
-
-
-}
