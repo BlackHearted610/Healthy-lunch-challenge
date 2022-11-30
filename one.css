@@ -1,13 +1,5 @@
-.grid1 {
-    display: grid;
-    column-gap:50px;
-    border-style:solid;
-    border-radius:16px;
-
-}
-
 html  {
-    background-color:plum;
+    background-color:black;
     border-color:pink;
     color:pink;
 }
@@ -16,3 +8,4 @@ html  {
 display:grid;
 
 }
+
