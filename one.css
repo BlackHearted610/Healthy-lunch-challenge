@@ -1,7 +1,10 @@
 html  {
-    background-color:black;
+    background-color:plum;
     border-color:pink;
     color:pink;
+    border-style:double;
+    border-width:1rem;
+    border-radius:1rem;
 }
 
 .grid-item {
